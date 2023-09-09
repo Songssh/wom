@@ -18,6 +18,7 @@ A trained model has a couple of data that winning rate, frequency,...etc represe
 ## How to use
 1. Prepare dataset.
 Make your dataset. and add them data/words.txt
+
 training data must fallow these template.
 ```
 가돌리늄
@@ -27,7 +28,13 @@ training data must fallow these template.
 가렛좃
 ```
 
-3. Training WOM model
+2. Training WOM model
 ```
 python index.py
+```
+If train finished, trained_model.pickle file will be created.
+
+3. infering
+```
+
 ```
