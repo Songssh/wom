@@ -32,6 +32,7 @@ training data must fallow these template.
 ```
 python index.py
 ```
+Variable **episodes** is the number of times to repeat. You can adjust this.
 If train finished, trained_model.pickle file will be created.
 
 3. infering
