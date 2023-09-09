@@ -13,4 +13,4 @@ If you train this model, This model will continue to iterate over and over again
 2. When the game is over. evaluating words used in this game. and save its result.
 
 ### How to inference.
-A trained model has a couple of data that winning rate, frequency,...etc representative that word. inference step is a combine this data and make choice word
+A trained model has a couple of data that winning rate, frequency,...etc representative that word. inference step is a combine this data and make choice according to its score.
