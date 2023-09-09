@@ -14,3 +14,20 @@ If you train this model, This model will continue to iterate over and over again
 
 ### How to inference.
 A trained model has a couple of data that winning rate, frequency,...etc representative that word. inference step is a combine this data and make choice according to its score.
+
+## How to use
+1. Prepare dataset.
+Make your dataset. and add them data/words.txt
+training data must fallow these template.
+```
+가돌리늄
+가듁
+가래톳
+가렌
+가렛좃
+```
+
+3. Training WOM model
+```
+python index.py
+```
