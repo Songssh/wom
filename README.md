@@ -17,8 +17,8 @@ A trained model has a couple of data that winning rate, frequency,...etc represe
 
 ## How to use
 1. Prepare dataset. (this repo contain sample dataset. you can pass this step)
-Make your dataset. and add them data/words.txt
 
+Make your dataset. and add them **data/words.txt**.
 training data must fallow these template.
 ```
 가돌리늄
